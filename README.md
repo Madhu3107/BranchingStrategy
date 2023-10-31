@@ -1,5 +1,5 @@
 # BranchingStrategy
 
-# Example 1
+# Example A
 
 # Example 2
