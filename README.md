@@ -1,1 +1,3 @@
 # BranchingStrategy
+
+#Example 1
